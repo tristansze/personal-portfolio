@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Computer Vision Engineer",
+        "organization": "HUMN Capital",
+        "startDate": "Jan. 2024",
+        "endDate": "May. 2024",
+        "experiences": ["Created sentiment analysis model", "Track user eye contact", "Timestamp collection mechanisms"],
+        "imageSrc": "history/humncapital.png"
+    },
+    {
+        "role": "Undergraduate Researcher",
+        "organization": "Purdue University",
+        "startDate": "Jan. 2024",
+        "endDate": "Present",
+        "experiences": ["Develop models for global forestry analysis", "Statistical analysis on large datasets"],
+        "imageSrc": "history/Boilerlogo.svg.png"
+    },
+    {
+        "role": "IT Intern",
+        "organization": "Olentangy Local Schools",
+        "startDate": "May. 2023",
+        "endDate": "Present",
+        "experiences": ["Troubleshoot technichal issues", "Inventory procurement", "Device maintenance"],
+        "imageSrc": "history/olentangy-removebg-preview.png"
+    }
+]
