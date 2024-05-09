@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Concurrent Marketplace",
+        "imageSrc": "project/shoppingcart.png",
+        "description": "An interactive marketplaced for buyers and sellers",
+        "skills": ["Java", "Swing"],
+        "demo": "https://github.com/tristansze/CS180-Project-4-5",
+        "source": "https://github.com/tristansze/CS180-Project-4-5"
+    }
+]
